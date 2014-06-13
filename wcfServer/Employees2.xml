@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Employees>
+  <Employee>
+    <Name>
+      <FirstName>Henry</FirstName>
+      <LastName>Ford</LastName>
+    </Name>
+    <Age>60</Age>
+    <Department Name="Automobile" />
+  </Employee>
+  <Employee>
+    <Name>
+      <FirstName>Bill</FirstName>
+      <LastName>xxx</LastName>
+    </Name>
+    <Age>60</Age>
+    <Department Name="Software" />
+  </Employee>
+  <Employee>
+    <Name>
+      <FirstName>Steve</FirstName>
+      <LastName>Jobs</LastName>
+    </Name>
+    <Age>75</Age>
+    <Department Name="Mobile" />
+  </Employee>
+</Employees>
