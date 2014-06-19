@@ -1,10 +1,10 @@
 wcfTest
 =======
 
-a test of web service
+a test of web service http://119.47.113.13/wcfServer/WcfServiceLibrary.StevenService.svc
 
 
-This project (119.47.113.13/wcfServer/WcfServiceLibrary.StevenService.svc) is a test of web service.
+This project is a web service, with method to update Employee2.xml in server directory.
 
 
 
